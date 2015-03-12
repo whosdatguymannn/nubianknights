@@ -1,0 +1,8 @@
+# Site settings
+title: Music, Visuals, Events and more | Nubian Knights
+email: 
+description: The official site of Nubian Knights.
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# Build settings
+markdown: kramdown
