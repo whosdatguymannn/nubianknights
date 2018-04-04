@@ -1,2 +1,2 @@
 # nubianknights
-Nubian Knights' temporary website
+Nubian Knights' website
